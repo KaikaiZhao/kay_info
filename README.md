@@ -1,2 +1,9 @@
 # kay_info
 Some notes
+
+
+mom 410821196809182048
+
+uncle 410821197610172015
+
+stu id  Y1606128
